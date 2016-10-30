@@ -8,8 +8,10 @@ A simple POC based on Typescript to show how it works.
 * [Mistakes](#mistakes)
 
 ## Prerequis
-To use this you will need 
-1) [Node.js](https://nodejs.org/en/).
+
+To use this you will need:
+
+1) [Node.js](https://nodejs.org/en/) .
 2) A text editor or IDE (vscode, netbeans, eclipse)
 
 ## All POC 
