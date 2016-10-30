@@ -1,10 +1,11 @@
 # typescript-poc
-A simple POC based on Typescript to show how it works.
+A simple POC to teach how tyo use [TypeScript](https://www.typescriptlang.org/index.html).
+
 
 ## Table of contents
 
 * [Prerequis](#prerequis)
-* [Ressources installation](#ressources-installation)
+* [Ressources installation](#ressources-installation) (In progress)
 * [Helpfull Typescript command](#helpfull-typescript-command)
 * [List of poc](#list-of-poc)
 * [Mistakes](#mistakes)
@@ -17,7 +18,10 @@ To use this you will need:
 
 2) A text editor or IDE (vscode, netbeans, eclipse).
 
-## Helpfull Typescript commands
+## Ressources installation
+
+
+## Command helpfull
 
 1) Watch modification and recompile file automatically.
 
