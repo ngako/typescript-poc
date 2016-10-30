@@ -1,0 +1,11 @@
+{
+  "name": "typescript-gulp",
+  "version": "1.0.0",
+  "description": "A simple POC to teach how to build TypaScript with gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurent NGAKO",
+  "license": "MIT"
+}
