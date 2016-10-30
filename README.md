@@ -14,6 +14,7 @@ A simple POC based on Typescript to show how it works.
 To use this you will need:
 
 1) A [Node.js](https://nodejs.org/en/) installed on your computer with npm (A package manager of nodejs).
+
 2) A text editor or IDE (vscode, netbeans, eclipse).
 
 ## Helpfull Typescript commands
