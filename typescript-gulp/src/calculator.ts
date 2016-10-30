@@ -1,3 +1,6 @@
 import { addition } from './calculator.service';
 
-console.log(addition(2,4));
+let param1 = Number(process.argv[2]);
+let param2 = Number(process.argv[3]);
+
+console.log(addition(param1,param2));

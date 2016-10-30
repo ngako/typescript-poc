@@ -21,6 +21,17 @@ To use this you will need:
 ## Ressources installation
 
 
+## Running
+
+To test this, Into your source project type:
+```
+gulp
+```
+```
+npm test
+```
+
+
 ## Command helpfull
 
 1) Watch modification and recompile file automatically.
@@ -45,3 +56,12 @@ You can retrieve the sources into subfolder typescript-gulp.
 
 
 ## Mistakes
+
+1) error TS2304: Cannot find name 'process'.
+This error occur when you try to use the process object of nodjs without install it explicitely.
+
+To sole this type:
+
+```bash
+npm install --save-dev @types/nod
+```
